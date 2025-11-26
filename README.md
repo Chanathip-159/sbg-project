@@ -1,1 +1,1 @@
-# 2025-SBG
+# sbg-project
